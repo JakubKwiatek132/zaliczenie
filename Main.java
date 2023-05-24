@@ -8,6 +8,6 @@ class Main {
         String a = o.nextLine();
 
         int len = a.length();
-    System.out.println(len);
+    System.out.println("Długość ciagu znaków: " + len);
   }
 }
